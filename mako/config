@@ -1,0 +1,27 @@
+max-visible=1
+anchor=top-right
+font=IBM Plex Sans Text 13
+layer=overlay
+default-timeout=5000
+text-alignment=left
+format=<b>%s</b>\n%b
+
+width=350
+height=65
+margin=5,8,0
+
+icons=1
+markup=1
+
+padding=8
+
+border-size=4
+border-radius=0
+
+background-color=#24837B
+text-color=#fffcf0
+border-color=#100f0f
+progress-color=over #3aa99f
+
+[urgency=high]
+background-color=#af3029

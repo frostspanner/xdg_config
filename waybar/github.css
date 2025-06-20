@@ -1,0 +1,14 @@
+/*
+*
+* Catppuccin Frappe palette
+* Maintainer: rubyowo
+*
+*/
+
+@define-color base   #010409;
+
+@define-color text     #ffffff;
+@define-color snow #FcFDFE;
+@define-color tint #cddbf0;
+@define-color selection #0349b4;
+@define-color btext #356dc3;

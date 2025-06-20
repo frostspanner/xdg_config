@@ -1,0 +1,10 @@
+set default-fg                \#100f0f
+set default-bg 			          \#fffcf0
+
+set recolor                   "true"
+set recolor-lightcolor		    \#fffcf0
+set recolor-darkcolor		      \#100f0f
+
+set highlight-color "rgba(16, 15, 15, 0.2)"
+set highlight-fg		        \#100f0f
+set highlight-active-color \#100f0f

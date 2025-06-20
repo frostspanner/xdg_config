@@ -1,0 +1,11 @@
+chromium/
+dconf/
+fish/
+fontconfig/
+htop/
+knfsshare
+lxqt/
+nvim/lazy-lock.json
+pulse/
+user-dirs.dirs
+user-dirs.locale

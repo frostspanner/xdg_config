@@ -1,0 +1,5 @@
+inherits = "gruvbox_dark_hard"
+
+"ui.window" = "#504945"
+"ui.background" = {fg = "#928374"}
+"ui.popup" = {fg = "#928374"}
